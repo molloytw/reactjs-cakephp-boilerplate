@@ -216,3 +216,5 @@ if (Configure::read('debug')) {
 }
 
 Plugin::load('Crud');
+
+Plugin::load('ADmad/JwtAuth');
